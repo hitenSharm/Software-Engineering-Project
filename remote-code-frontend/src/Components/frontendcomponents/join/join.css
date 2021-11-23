@@ -40,7 +40,7 @@ body {
 }
 
 .button {
-  color: #fff !important;
+  color: #fff;
   text-transform: uppercase;
   text-decoration: none;
   background: #2979ff;
