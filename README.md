@@ -188,12 +188,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Project Link: [https://github.com/hitenSharm/Software-Engineering-Project](https://github.com/hitenSharm/Software-Engineering-Project)
 
-Site Link: [SwaggerUI Link](http://65.0.131.144:3001/)
+Site Link: [SwaggerUI Link](http://3.110.47.178:3001/)
 
-Main Site Link: [FrontEnd UI](http://www.rceui.ml/)
+Main Site Link: [Site](http://www.rceui.ml/)
 
 ## Deployment
 - This project is currently deployed on an EC2 Instance provided by AWS
+
 
 ## Screenshots
 <img src="https://i.imgur.com/FOKwshQ.png"></img>
